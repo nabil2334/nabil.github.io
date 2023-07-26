@@ -5,6 +5,11 @@ body {
   padding-top: 6rem;
   background-color: aquamarine;
 }
+#medsos{
+  padding-top: 6rem;
+  padding-bottom: 18rem;
+  background-color: #00ffff;
+}
 
 #projects {
   background-color: #7fffd4;
